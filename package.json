@@ -1,5 +1,5 @@
 {
-  "name": "w2",
+  "name": "w2-serverless-slack",
   "version": "1.0.0",
   "description": "Serverless Slack Workshop, ReactiveConf 2019",
   "main": "api/eval.js",
